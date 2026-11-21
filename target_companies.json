@@ -1,0 +1,37 @@
+
+{
+  "target_companies": [
+    {
+      "name": "PUMA",
+      "status": "research"
+    },
+    {
+      "name": "Birkenstock",
+      "status": "research"
+    },
+    {
+      "name": "adidas",
+      "status": "research"
+    },
+    {
+      "name": "Bosch",
+      "status": "research"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "status": "research"
+    },
+    {
+      "name": "Allianz",
+      "status": "research"
+    },
+    {
+      "name": "Lufthansa",
+      "status": "research"
+    },
+    {
+      "name": "Siemens",
+      "status": "research"
+    }
+  ]
+}
