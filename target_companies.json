@@ -33,5 +33,14 @@
       "name": "Siemens",
       "status": "research"
     }
+    
+{
+  "name": "StepStone",
+  "type": "job_platform",
+  "country": "Germany",
+  "website": "https://www.stepstone.de",
+  "status": "permission_required"
+}
+
   ]
 }
