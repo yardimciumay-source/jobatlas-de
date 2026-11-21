@@ -1,0 +1,528 @@
+{
+  "updated_at": "2026-11-21T21:46:06.629540+00:00",
+  "total": 58,
+  "jobs": [
+    {
+      "id": "contentful-8327853",
+      "title": "DACH Senior Solution Engineer (f/m/d)",
+      "company": "contentful",
+      "city": "Munich, Bavaria, Germany",
+      "language": "unknown",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8327853",
+      "source": "greenhouse"
+    },
+    {
+      "id": "contentful-8330477",
+      "title": "Enterprise Account Executive DACH (f/m/d)",
+      "company": "contentful",
+      "city": "Munich, Bavaria, Germany",
+      "language": "unknown",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8330477",
+      "source": "greenhouse"
+    },
+    {
+      "id": "contentful-8202959",
+      "title": "Mid Market Account Executive - DACH (f/m/d)",
+      "company": "contentful",
+      "city": "Munich, Germany",
+      "language": "unknown",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8202959",
+      "source": "greenhouse"
+    },
+    {
+      "id": "contentful-8221365",
+      "title": "Senior Software Engineer - Personalization (f/m/d)",
+      "company": "contentful",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8221365",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8789067002",
+      "title": "Backend Engineer (Golang) - Transfers Europe",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8789067002?gh_jid=8789067002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8573120002",
+      "title": "Customer Support Agent- DE",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8573120002?gh_jid=8573120002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8364212002",
+      "title": "Data Platform Engineer (Mid-Level)",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8364212002?gh_jid=8364212002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8317973002",
+      "title": "\tErfahrener Außendienstmitarbeiter (m/w/d)",
+      "company": "sumup",
+      "city": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8317973002?gh_jid=8317973002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-7869240002",
+      "title": "\tErfahrener Außendienstmitarbeiter (m/w/d)",
+      "company": "sumup",
+      "city": "Dortmund, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/7869240002?gh_jid=7869240002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-7945103002",
+      "title": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+      "company": "sumup",
+      "city": "Cologne, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/7945103002?gh_jid=7945103002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8874444002",
+      "title": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8874444002?gh_jid=8874444002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8126118002",
+      "title": "Field Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Dortmund, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8126118002?gh_jid=8126118002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8317464002",
+      "title": "Field Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Aachen, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8317464002?gh_jid=8317464002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8082105002",
+      "title": "Field Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Cologne, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8082062002",
+      "title": "Field Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Düsseldorf, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8468108002",
+      "title": "Field Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Münster, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8468108002?gh_jid=8468108002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8906107002",
+      "title": "Fraud Prevention Specialist",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8906107002?gh_jid=8906107002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8885083002",
+      "title": "Head of Pricing & Monetisation",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8885083002?gh_jid=8885083002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8820269002",
+      "title": "Outbound Sales Development Representative (m/w/d)",
+      "company": "sumup",
+      "city": "Cologne, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8820269002?gh_jid=8820269002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8852097002",
+      "title": "Refer Someone Today For Germany!",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8852097002?gh_jid=8852097002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8317991002",
+      "title": "Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Essen, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8317991002?gh_jid=8317991002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8640268002",
+      "title": "Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8640268002?gh_jid=8640268002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8794602002",
+      "title": "Senior Android Engineer- Hardware",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8794602002?gh_jid=8794602002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8003469002",
+      "title": "Senior Android Engineer - KMP",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8003469002?gh_jid=8003469002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8785333002",
+      "title": "Senior Backend Engineer (Golang) - Bank Balance",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8785333002?gh_jid=8785333002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8821323002",
+      "title": "Senior Backend Engineer - Identity",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8821323002?gh_jid=8821323002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8951363002",
+      "title": "Senior Backend Engineer - Identity",
+      "company": "sumup",
+      "city": "Cologne, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8951363002?gh_jid=8951363002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8659018002",
+      "title": "Senior Backend Engineer - Identity Lifecycle",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8659018002?gh_jid=8659018002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8644922002",
+      "title": "Senior Backend Engineer - MarTech",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8644922002?gh_jid=8644922002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8842256002",
+      "title": "Senior Backend Engineer - Run & Grow",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8842256002?gh_jid=8842256002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8842258002",
+      "title": "Senior Backend Engineer - Run & Grow",
+      "company": "sumup",
+      "city": "Cologne, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8842258002?gh_jid=8842258002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8745560002",
+      "title": "Senior Commercial Finance Business Partner",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8745560002?gh_jid=8745560002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8726158002",
+      "title": " Senior DevOps Engineer",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8726158002?gh_jid=8726158002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8658154002",
+      "title": "Senior Embedded Android Engineer- Hardware",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8658154002?gh_jid=8658154002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8773687002",
+      "title": "Senior Fullstack Engineer - Localization",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8773687002?gh_jid=8773687002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8871077002",
+      "title": "Senior Hardware Engineer",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8871077002?gh_jid=8871077002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8712443002",
+      "title": "Senior Machine Learning Engineer - Platform Team",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8712443002?gh_jid=8712443002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8909054002",
+      "title": "Senior Manager Tax Planning & Strategy",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8909054002?gh_jid=8909054002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8602383002",
+      "title": "Senior Product Manager - SuperApp",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8602383002?gh_jid=8602383002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8907454002",
+      "title": "Senior Risk & Fraud Prevention Analyst",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8907454002?gh_jid=8907454002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8905233002",
+      "title": "Strategic Sourcing Manager- Hardware",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8905233002?gh_jid=8905233002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8543373002",
+      "title": "Vendor Operations Performance Analyst",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8543373002?gh_jid=8543373002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8547633002",
+      "title": "Workday Specialist",
+      "company": "sumup",
+      "city": "Berlin, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8242571",
+      "title": "Business Audit Manager",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8242571?gh_jid=8242571",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8161394",
+      "title": "Complaints Project Manager - Fluent German",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8161394?gh_jid=8161394",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8161390",
+      "title": "Compliance and Prevention Associate (Complaints Management)",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8161390?gh_jid=8161390",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-7818361",
+      "title": "Engineering Manager - Data Platform",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/7818361?gh_jid=7818361",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8169035",
+      "title": "ICT GRC – Risk & Compliance Manager",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8169035?gh_jid=8169035",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8239610",
+      "title": "IT Audit Manger / ICT Service Auditor",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8239610?gh_jid=8239610",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8138757",
+      "title": "IT Solutions Engineer - Google Cloud",
+      "company": "n26",
+      "city": "Berlin, Vienna, Barcelona",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8138757?gh_jid=8138757",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8267143",
+      "title": "Lead Technical Product Manager — Machine Learning Platform",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8364763",
+      "title": "Manager für Beschwerdeaudits",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8034981",
+      "title": "Senior CRM Specialist",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8034981?gh_jid=8034981",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8184791",
+      "title": "Senior Legal Counsel Banking Law",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8184791?gh_jid=8184791",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8200510",
+      "title": "Senior Legal Counsel Banking Law",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8370910",
+      "title": "Senior Legal Counsel, Employment Law",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8187986",
+      "title": "Senior Lifecycle Specialist (Compliance & Operational Communication)",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986",
+      "source": "greenhouse"
+    },
+    {
+      "id": "n26-8364836",
+      "title": "Senior Product Marketing Manager",
+      "company": "n26",
+      "city": "Barcelona, Berlin or Madrid",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8364836?gh_jid=8364836",
+      "source": "greenhouse"
+    }
+  ]
+}
