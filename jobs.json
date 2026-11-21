@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T21:46:06.629540+00:00",
+  "updated_at": "2026-11-21T21:46:27.036315+00:00",
   "total": 58,
   "jobs": [
     {
@@ -102,12 +102,30 @@
       "source": "greenhouse"
     },
     {
+      "id": "sumup-8082105002",
+      "title": "Field Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Cologne, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002",
+      "source": "greenhouse"
+    },
+    {
       "id": "sumup-8126118002",
       "title": "Field Sales Manager (m/w/d)",
       "company": "sumup",
       "city": "Dortmund, North Rhine-Westphalia, Germany",
       "language": "unknown",
       "url": "https://sumup.com/careers/positions/8126118002?gh_jid=8126118002",
+      "source": "greenhouse"
+    },
+    {
+      "id": "sumup-8468108002",
+      "title": "Field Sales Manager (m/w/d)",
+      "company": "sumup",
+      "city": "Münster, North Rhine-Westphalia, Germany",
+      "language": "unknown",
+      "url": "https://sumup.com/careers/positions/8468108002?gh_jid=8468108002",
       "source": "greenhouse"
     },
     {
@@ -120,30 +138,12 @@
       "source": "greenhouse"
     },
     {
-      "id": "sumup-8082105002",
-      "title": "Field Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Cologne, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002",
-      "source": "greenhouse"
-    },
-    {
       "id": "sumup-8082062002",
       "title": "Field Sales Manager (m/w/d)",
       "company": "sumup",
       "city": "Düsseldorf, North Rhine-Westphalia, Germany",
       "language": "unknown",
       "url": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8468108002",
-      "title": "Field Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Münster, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8468108002?gh_jid=8468108002",
       "source": "greenhouse"
     },
     {
