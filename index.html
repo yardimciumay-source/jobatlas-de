@@ -115,6 +115,11 @@
         placeholder="Jobtitel, Firma oder Stadt"
       >
 
+      
+<select id="city">
+  <option value="all">Alle Städte – Tüm şehirler</option>
+</select>
+
       <select id="language">
         <option value="all">Alle Sprachen</option>
         <option value="de">Deutsch</option>
@@ -136,6 +141,25 @@
 
     const searchInput = document.getElementById("search");
     const languageSelect = document.getElementById("language");
+    
+const citySelect = document.getElementById("city");
+
+function updateCityOptions() {
+  const cities = [...new Set(
+    allJobs
+      .map(job => job.city || "")
+      .filter(Boolean)
+  )].sort((a, b) => a.localeCompare(b, "de"));
+
+  citySelect.replaceChildren();
+
+  citySelect.add(new Option("Alle Städte – Tüm şehirler", "all"));
+
+  cities.forEach(city => {
+    citySelect.add(new Option(city, city));
+  });
+}
+
     const jobsContainer = document.getElementById("jobs");
     const status = document.getElementById("status");
 
@@ -144,7 +168,7 @@
         .toLocaleLowerCase("de").trim();
 
       const language = languageSelect.value;
-
+const selectedCity = citySelect.value;
       const filtered = allJobs.filter(job => {
         const text = [
           job.title,
@@ -158,7 +182,10 @@
           language === "all" ||
           job.language === language;
 
-        return matchesSearch && matchesLanguage;
+        const matchesCity =
+  selectedCity === "all" || job.city === selectedCity;
+
+return matchesSearch && matchesLanguage && matchesCity;
       });
 
       jobsContainer.replaceChildren();
@@ -242,8 +269,9 @@
           throw new Error("Ungültiges Datenformat");
         }
 
-        allJobs = data.jobs;
-        renderJobs();
+       allJobs = data.jobs;
+updateCityOptions();
+renderJobs();
 
       } catch (error) {
         console.error(error);
@@ -255,7 +283,7 @@
 
     searchInput.addEventListener("input", renderJobs);
     languageSelect.addEventListener("change", renderJobs);
-
+citySelect.addEventListener("change", renderJobs);
     loadJobs();
   </script>
 </body>
