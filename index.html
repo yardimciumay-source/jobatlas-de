@@ -4,165 +4,259 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport"
-        content="width=device-width, initial-scale=1.0">
-  <title>JobAtlas DE – Jobs in Deutschland</title>
+        content="width=device-width, initial-scale=1">
+  <title>JobAtlas DE | Jobs in Deutschland</title>
+
   <style>
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #f5f7fb;
+      background: #f4f7fb;
       color: #17233b;
     }
 
     header {
       background: #102b54;
       color: white;
-      padding: 24px;
       text-align: center;
+      padding: 48px 20px;
+    }
+
+    header h1 {
+      font-size: 38px;
+      margin: 0 0 12px;
     }
 
     main {
-      max-width: 1000px;
-      margin: 40px auto;
+      max-width: 1050px;
+      margin: 35px auto;
       padding: 0 20px;
     }
 
-    .search {
+    .filters {
       display: flex;
-      gap: 12px;
       flex-wrap: wrap;
-      margin: 25px 0;
+      gap: 12px;
+      margin: 24px 0;
     }
 
     input, select {
       padding: 14px;
-      border: 1px solid #ccd4df;
+      border: 1px solid #d4dce7;
       border-radius: 8px;
+      background: white;
       font-size: 15px;
       flex: 1;
-      min-width: 180px;
+      min-width: 170px;
     }
 
     .job {
       background: white;
+      border: 1px solid #e5eaf1;
+      border-radius: 12px;
       padding: 22px;
       margin-bottom: 15px;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px #0000000d;
     }
 
-    .job h3 { margin-top: 0; }
-
-    .job a {
-      color: #1263ba;
-      font-weight: bold;
+    .job h3 {
+      margin: 0 0 10px;
+      color: #102b54;
     }
 
-    .note { color: #65738a; }
+    .job p {
+      color: #526176;
+      margin: 8px 0;
+    }
+
+    .apply {
+      display: inline-block;
+      background: #1769c2;
+      color: white;
+      padding: 11px 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 12px;
+    }
+
+    .apply:hover {
+      background: #0e4d94;
+    }
+
+    #status {
+      color: #526176;
+      margin-bottom: 20px;
+    }
+
+    .error { color: #b42318 !important; }
+
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: #66758a;
+    }
   </style>
 </head>
+
 <body>
+  <header>
+    <h1>JobAtlas DE</h1>
+    <p>Entdecke deinen nächsten Job in Deutschland</p>
+  </header>
 
-<header>
-  <h1>JobAtlas DE</h1>
-  <p>Entdecke deinen nächsten Job in Deutschland</p>
-</header>
+  <main>
+    <h2>Aktuelle Stellenangebote</h2>
 
-<main>
-  <h2>Stellenangebote entdecken</h2>
+    <div class="filters">
+      <input
+        id="search"
+        type="search"
+        placeholder="Jobtitel, Firma oder Stadt"
+      >
 
-  <div class="search">
-    <input id="search"
-           placeholder="Jobtitel oder Unternehmen">
+      <select id="language">
+        <option value="all">Alle Sprachen</option>
+        <option value="de">Deutsch</option>
+        <option value="en">English</option>
+        <option value="unknown">Nicht erkannt</option>
+      </select>
+    </div>
 
-    <select id="language">
-      <option value="all">Alle Sprachen</option>
-      <option value="de">Deutsch</option>
-      <option value="en">English</option>
-    </select>
-  </div>
+    <p id="status">Stellenangebote werden geladen...</p>
+    <div id="jobs"></div>
+  </main>
 
-  <p id="count"></p>
-  <div id="jobs"></div>
-</main>
+  <footer>
+    JobAtlas DE · Stellenangebote aus externen Quellen
+  </footer>
 
-<script>
-  // Nur Beispieldaten, keine echten Stellenanzeigen
-  const jobs = [
-    {
-      title: "Junior Financial Analyst",
-      company: "Demo Unternehmen A",
-      city: "Frankfurt am Main",
-      language: "en"
-    },
-    {
-      title: "Data Analyst (m/w/d)",
-      company: "Demo Unternehmen B",
-      city: "Berlin",
-      language: "de"
-    },
-    {
-      title: "Software Engineer",
-      company: "Demo Unternehmen C",
-      city: "München",
-      language: "en"
+  <script>
+    let allJobs = [];
+
+    const searchInput = document.getElementById("search");
+    const languageSelect = document.getElementById("language");
+    const jobsContainer = document.getElementById("jobs");
+    const status = document.getElementById("status");
+
+    function renderJobs() {
+      const query = searchInput.value
+        .toLocaleLowerCase("de").trim();
+
+      const language = languageSelect.value;
+
+      const filtered = allJobs.filter(job => {
+        const text = [
+          job.title,
+          job.company,
+          job.city
+        ].join(" ").toLocaleLowerCase("de");
+
+        const matchesSearch = text.includes(query);
+
+        const matchesLanguage =
+          language === "all" ||
+          job.language === language;
+
+        return matchesSearch && matchesLanguage;
+      });
+
+      jobsContainer.replaceChildren();
+
+      status.textContent =
+        filtered.length + " Stellenangebote gefunden";
+
+      if (filtered.length === 0) {
+        const empty = document.createElement("p");
+        empty.textContent =
+          "Keine passenden Stellenangebote gefunden.";
+        jobsContainer.appendChild(empty);
+        return;
+      }
+
+      filtered.forEach(job => {
+        const card = document.createElement("article");
+        card.className = "job";
+
+        const title = document.createElement("h3");
+        title.textContent = job.title || "Ohne Titel";
+
+        const company = document.createElement("p");
+        company.textContent =
+          "Unternehmen: " + (job.company || "Unbekannt");
+
+        const location = document.createElement("p");
+        location.textContent =
+          "Standort: " + (job.city || "Nicht angegeben");
+
+        const languageText = document.createElement("p");
+
+        const languages = {
+          de: "Deutsch",
+          en: "English",
+          unknown: "Nicht erkannt"
+        };
+
+        languageText.textContent =
+          "Sprache: " +
+          (languages[job.language] || "Nicht erkannt");
+
+        card.append(title, company, location, languageText);
+
+        if (job.url) {
+          try {
+            const url = new URL(job.url);
+
+            if (url.protocol === "https:" ||
+                url.protocol === "http:") {
+              const link = document.createElement("a");
+              link.className = "apply";
+              link.href = url.href;
+              link.target = "_blank";
+              link.rel = "noopener noreferrer";
+              link.textContent = "Originalanzeige öffnen";
+              card.appendChild(link);
+            }
+          } catch (error) {
+            console.warn("Ungültiger Link:", job.id);
+          }
+        }
+
+        jobsContainer.appendChild(card);
+      });
     }
-  ];
 
-  const search = document.getElementById("search");
-  const language = document.getElementById("language");
-  const container = document.getElementById("jobs");
-  const count = document.getElementById("count");
+    async function loadJobs() {
+      try {
+        const response = await fetch("./jobs.json", {
+          cache: "no-store"
+        });
 
-  function renderJobs() {
-    const query = search.value.toLocaleLowerCase("de");
-    const selectedLanguage = language.value;
+        if (!response.ok) {
+          throw new Error("HTTP " + response.status);
+        }
 
-    const filtered = jobs.filter(job => {
-      const text = (
-        job.title + " " +
-        job.company + " " +
-        job.city
-      ).toLocaleLowerCase("de");
+        const data = await response.json();
 
-      return text.includes(query) &&
-        (selectedLanguage === "all" ||
-         job.language === selectedLanguage);
-    });
+        if (!Array.isArray(data.jobs)) {
+          throw new Error("Ungültiges Datenformat");
+        }
 
-    container.replaceChildren();
+        allJobs = data.jobs;
+        renderJobs();
 
-    filtered.forEach(job => {
-      const card = document.createElement("div");
-      card.className = "job";
+      } catch (error) {
+        console.error(error);
+        status.textContent =
+          "Stellenangebote konnten nicht geladen werden.";
+        status.className = "error";
+      }
+    }
 
-      const title = document.createElement("h3");
-      title.textContent = job.title;
+    searchInput.addEventListener("input", renderJobs);
+    languageSelect.addEventListener("change", renderJobs);
 
-      const details = document.createElement("p");
-      details.textContent = job.company + " · " + job.city;
-
-      const lang = document.createElement("p");
-      lang.className = "note";
-      lang.textContent =
-        "Sprache: " +
-        (job.language === "de" ? "Deutsch" : "English");
-
-      card.append(title, details, lang);
-      container.appendChild(card);
-    });
-
-    count.textContent =
-      filtered.length + " Stellenangebote gefunden";
-  }
-
-  search.addEventListener("input", renderJobs);
-  language.addEventListener("change", renderJobs);
-
-  renderJobs();
-</script>
-
+    loadJobs();
+  </script>
 </body>
 </html>
