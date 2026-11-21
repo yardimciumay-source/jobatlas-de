@@ -1,0 +1,17 @@
+
+{
+  "companies": [
+    {
+      "name": "PUMA",
+      "country": "Germany",
+      "careers_url": "https://about.puma.com/de/careers/job-openings",
+      "status": "pending_integration"
+    },
+    {
+      "name": "Birkenstock",
+      "country": "Germany",
+      "careers_url": "https://careers.birkenstock-group.com/de/de/search-results",
+      "status": "pending_integration"
+    }
+  ]
+}
