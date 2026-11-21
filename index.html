@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+  <title>JobAtlas DE – Jobs in Deutschland</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f7fb;
+      color: #17233b;
+    }
+
+    header {
+      background: #102b54;
+      color: white;
+      padding: 24px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .search {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin: 25px 0;
+    }
+
+    input, select {
+      padding: 14px;
+      border: 1px solid #ccd4df;
+      border-radius: 8px;
+      font-size: 15px;
+      flex: 1;
+      min-width: 180px;
+    }
+
+    .job {
+      background: white;
+      padding: 22px;
+      margin-bottom: 15px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px #0000000d;
+    }
+
+    .job h3 { margin-top: 0; }
+
+    .job a {
+      color: #1263ba;
+      font-weight: bold;
+    }
+
+    .note { color: #65738a; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>JobAtlas DE</h1>
+  <p>Entdecke deinen nächsten Job in Deutschland</p>
+</header>
+
+<main>
+  <h2>Stellenangebote entdecken</h2>
+
+  <div class="search">
+    <input id="search"
+           placeholder="Jobtitel oder Unternehmen">
+
+    <select id="language">
+      <option value="all">Alle Sprachen</option>
+      <option value="de">Deutsch</option>
+      <option value="en">English</option>
+    </select>
+  </div>
+
+  <p id="count"></p>
+  <div id="jobs"></div>
+</main>
+
+<script>
+  // Nur Beispieldaten, keine echten Stellenanzeigen
+  const jobs = [
+    {
+      title: "Junior Financial Analyst",
+      company: "Demo Unternehmen A",
+      city: "Frankfurt am Main",
+      language: "en"
+    },
+    {
+      title: "Data Analyst (m/w/d)",
+      company: "Demo Unternehmen B",
+      city: "Berlin",
+      language: "de"
+    },
+    {
+      title: "Software Engineer",
+      company: "Demo Unternehmen C",
+      city: "München",
+      language: "en"
+    }
+  ];
+
+  const search = document.getElementById("search");
+  const language = document.getElementById("language");
+  const container = document.getElementById("jobs");
+  const count = document.getElementById("count");
+
+  function renderJobs() {
+    const query = search.value.toLocaleLowerCase("de");
+    const selectedLanguage = language.value;
+
+    const filtered = jobs.filter(job => {
+      const text = (
+        job.title + " " +
+        job.company + " " +
+        job.city
+      ).toLocaleLowerCase("de");
+
+      return text.includes(query) &&
+        (selectedLanguage === "all" ||
+         job.language === selectedLanguage);
+    });
+
+    container.replaceChildren();
+
+    filtered.forEach(job => {
+      const card = document.createElement("div");
+      card.className = "job";
+
+      const title = document.createElement("h3");
+      title.textContent = job.title;
+
+      const details = document.createElement("p");
+      details.textContent = job.company + " · " + job.city;
+
+      const lang = document.createElement("p");
+      lang.className = "note";
+      lang.textContent =
+        "Sprache: " +
+        (job.language === "de" ? "Deutsch" : "English");
+
+      card.append(title, details, lang);
+      container.appendChild(card);
+    });
+
+    count.textContent =
+      filtered.length + " Stellenangebote gefunden";
+  }
+
+  search.addEventListener("input", renderJobs);
+  language.addEventListener("change", renderJobs);
+
+  renderJobs();
+</script>
+
+</body>
+</html>
