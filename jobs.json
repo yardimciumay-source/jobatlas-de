@@ -1,288 +1,9 @@
 {
-  "updated_at": "2026-11-21T21:46:50.367044+00:00",
-  "total": 58,
+  "updated_at": "2026-11-21T22:34:04.509636+00:00",
+  "total": 57,
   "jobs": [
     {
-      "id": "contentful-8327853",
-      "title": "DACH Senior Solution Engineer (f/m/d)",
-      "company": "contentful",
-      "city": "Munich, Bavaria, Germany",
-      "language": "unknown",
-      "url": "https://job-boards.greenhouse.io/contentful/jobs/8327853",
-      "source": "greenhouse"
-    },
-    {
-      "id": "contentful-8330477",
-      "title": "Enterprise Account Executive DACH (f/m/d)",
-      "company": "contentful",
-      "city": "Munich, Bavaria, Germany",
-      "language": "unknown",
-      "url": "https://job-boards.greenhouse.io/contentful/jobs/8330477",
-      "source": "greenhouse"
-    },
-    {
-      "id": "contentful-8202959",
-      "title": "Mid Market Account Executive - DACH (f/m/d)",
-      "company": "contentful",
-      "city": "Munich, Germany",
-      "language": "unknown",
-      "url": "https://job-boards.greenhouse.io/contentful/jobs/8202959",
-      "source": "greenhouse"
-    },
-    {
-      "id": "contentful-8221365",
-      "title": "Senior Software Engineer - Personalization (f/m/d)",
-      "company": "contentful",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://job-boards.greenhouse.io/contentful/jobs/8221365",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8789067002",
-      "title": "Backend Engineer (Golang) - Transfers Europe",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8789067002?gh_jid=8789067002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8573120002",
-      "title": "Customer Support Agent- DE",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8573120002?gh_jid=8573120002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8364212002",
-      "title": "Data Platform Engineer (Mid-Level)",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8364212002?gh_jid=8364212002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8317973002",
-      "title": "\tErfahrener Außendienstmitarbeiter (m/w/d)",
-      "company": "sumup",
-      "city": "Düsseldorf, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8317973002?gh_jid=8317973002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-7869240002",
-      "title": "\tErfahrener Außendienstmitarbeiter (m/w/d)",
-      "company": "sumup",
-      "city": "Dortmund, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/7869240002?gh_jid=7869240002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-7945103002",
-      "title": "Erfahrener Außendienstmitarbeiter (m/w/d)",
-      "company": "sumup",
-      "city": "Cologne, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/7945103002?gh_jid=7945103002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8874444002",
-      "title": "Erfahrener Außendienstmitarbeiter (m/w/d)",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8874444002?gh_jid=8874444002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8082105002",
-      "title": "Field Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Cologne, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8126118002",
-      "title": "Field Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Dortmund, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8126118002?gh_jid=8126118002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8468108002",
-      "title": "Field Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Münster, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8468108002?gh_jid=8468108002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8317464002",
-      "title": "Field Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Aachen, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8317464002?gh_jid=8317464002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8082062002",
-      "title": "Field Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Düsseldorf, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8906107002",
-      "title": "Fraud Prevention Specialist",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8906107002?gh_jid=8906107002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8885083002",
-      "title": "Head of Pricing & Monetisation",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8885083002?gh_jid=8885083002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8820269002",
-      "title": "Outbound Sales Development Representative (m/w/d)",
-      "company": "sumup",
-      "city": "Cologne, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8820269002?gh_jid=8820269002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8852097002",
-      "title": "Refer Someone Today For Germany!",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8852097002?gh_jid=8852097002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8317991002",
-      "title": "Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Essen, North Rhine-Westphalia, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8317991002?gh_jid=8317991002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8640268002",
-      "title": "Sales Manager (m/w/d)",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8640268002?gh_jid=8640268002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8794602002",
-      "title": "Senior Android Engineer- Hardware",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8794602002?gh_jid=8794602002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8003469002",
-      "title": "Senior Android Engineer - KMP",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8003469002?gh_jid=8003469002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8785333002",
-      "title": "Senior Backend Engineer (Golang) - Bank Balance",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8785333002?gh_jid=8785333002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8821323002",
-      "title": "Senior Backend Engineer - Identity",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8821323002?gh_jid=8821323002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8951363002",
-      "title": "Senior Backend Engineer - Identity",
-      "company": "sumup",
-      "city": "Cologne, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8951363002?gh_jid=8951363002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8659018002",
-      "title": "Senior Backend Engineer - Identity Lifecycle",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8659018002?gh_jid=8659018002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8644922002",
-      "title": "Senior Backend Engineer - MarTech",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8644922002?gh_jid=8644922002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8842256002",
-      "title": "Senior Backend Engineer - Run & Grow",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8842256002?gh_jid=8842256002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8842258002",
-      "title": "Senior Backend Engineer - Run & Grow",
-      "company": "sumup",
-      "city": "Cologne, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8842258002?gh_jid=8842258002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8745560002",
+      "id": "greenhouse-sumup-8745560002",
       "title": "Senior Commercial Finance Business Partner",
       "company": "sumup",
       "city": "Berlin, Germany",
@@ -291,52 +12,7 @@
       "source": "greenhouse"
     },
     {
-      "id": "sumup-8726158002",
-      "title": " Senior DevOps Engineer",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8726158002?gh_jid=8726158002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8658154002",
-      "title": "Senior Embedded Android Engineer- Hardware",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8658154002?gh_jid=8658154002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8773687002",
-      "title": "Senior Fullstack Engineer - Localization",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8773687002?gh_jid=8773687002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8871077002",
-      "title": "Senior Hardware Engineer",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8871077002?gh_jid=8871077002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8712443002",
-      "title": "Senior Machine Learning Engineer - Platform Team",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8712443002?gh_jid=8712443002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8909054002",
+      "id": "greenhouse-sumup-8909054002",
       "title": "Senior Manager Tax Planning & Strategy",
       "company": "sumup",
       "city": "Berlin, Germany",
@@ -345,52 +21,7 @@
       "source": "greenhouse"
     },
     {
-      "id": "sumup-8602383002",
-      "title": "Senior Product Manager - SuperApp",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8602383002?gh_jid=8602383002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8907454002",
-      "title": "Senior Risk & Fraud Prevention Analyst",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8907454002?gh_jid=8907454002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8905233002",
-      "title": "Strategic Sourcing Manager- Hardware",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8905233002?gh_jid=8905233002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8543373002",
-      "title": "Vendor Operations Performance Analyst",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8543373002?gh_jid=8543373002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "sumup-8547633002",
-      "title": "Workday Specialist",
-      "company": "sumup",
-      "city": "Berlin, Germany",
-      "language": "unknown",
-      "url": "https://sumup.com/careers/positions/8547633002?gh_jid=8547633002",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-8242571",
+      "id": "greenhouse-n26-8242571",
       "title": "Business Audit Manager",
       "company": "n26",
       "city": "Berlin",
@@ -399,7 +30,7 @@
       "source": "greenhouse"
     },
     {
-      "id": "n26-8161394",
+      "id": "greenhouse-n26-8161394",
       "title": "Complaints Project Manager - Fluent German",
       "company": "n26",
       "city": "Berlin",
@@ -408,34 +39,7 @@
       "source": "greenhouse"
     },
     {
-      "id": "n26-8161390",
-      "title": "Compliance and Prevention Associate (Complaints Management)",
-      "company": "n26",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8161390?gh_jid=8161390",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-7818361",
-      "title": "Engineering Manager - Data Platform",
-      "company": "n26",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/7818361?gh_jid=7818361",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-8169035",
-      "title": "ICT GRC – Risk & Compliance Manager",
-      "company": "n26",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8169035?gh_jid=8169035",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-8239610",
+      "id": "greenhouse-n26-8239610",
       "title": "IT Audit Manger / ICT Service Auditor",
       "company": "n26",
       "city": "Berlin",
@@ -444,43 +48,7 @@
       "source": "greenhouse"
     },
     {
-      "id": "n26-8138757",
-      "title": "IT Solutions Engineer - Google Cloud",
-      "company": "n26",
-      "city": "Berlin, Vienna, Barcelona",
-      "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8138757?gh_jid=8138757",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-8267143",
-      "title": "Lead Technical Product Manager — Machine Learning Platform",
-      "company": "n26",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8267143?gh_jid=8267143",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-8364763",
-      "title": "Manager für Beschwerdeaudits",
-      "company": "n26",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8364763?gh_jid=8364763",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-8034981",
-      "title": "Senior CRM Specialist",
-      "company": "n26",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8034981?gh_jid=8034981",
-      "source": "greenhouse"
-    },
-    {
-      "id": "n26-8184791",
+      "id": "greenhouse-n26-8184791",
       "title": "Senior Legal Counsel Banking Law",
       "company": "n26",
       "city": "Berlin",
@@ -489,7 +57,7 @@
       "source": "greenhouse"
     },
     {
-      "id": "n26-8200510",
+      "id": "greenhouse-n26-8200510",
       "title": "Senior Legal Counsel Banking Law",
       "company": "n26",
       "city": "Berlin",
@@ -498,31 +66,454 @@
       "source": "greenhouse"
     },
     {
-      "id": "n26-8370910",
-      "title": "Senior Legal Counsel, Employment Law",
-      "company": "n26",
-      "city": "Berlin",
+      "id": "arbeitnow-senior-controller-hamburg-hamburg-165242",
+      "title": "Senior Controller (m/f/d)",
+      "company": "appinio",
+      "city": "Hamburg, Hamburg",
       "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910",
-      "source": "greenhouse"
+      "url": "https://www.arbeitnow.com/jobs/companies/appinio/senior-controller-hamburg-hamburg-165242",
+      "source": "arbeitnow"
     },
     {
-      "id": "n26-8187986",
-      "title": "Senior Lifecycle Specialist (Compliance & Operational Communication)",
-      "company": "n26",
-      "city": "Berlin",
+      "id": "arbeitnow-strategy-operations-working-student-munich-185662",
+      "title": "Strategy & Operations Working Student",
+      "company": "celonis",
+      "city": "Munich",
       "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8187986?gh_jid=8187986",
-      "source": "greenhouse"
+      "url": "https://www.arbeitnow.com/jobs/companies/celonis/strategy-operations-working-student-munich-185662",
+      "source": "arbeitnow"
     },
     {
-      "id": "n26-8364836",
-      "title": "Senior Product Marketing Manager",
-      "company": "n26",
-      "city": "Barcelona, Berlin or Madrid",
+      "id": "arbeitnow-lead-business-development-representative-munich-456922",
+      "title": "Lead Business Development Representative (m/f/d)",
+      "company": "Dataguard",
+      "city": "Munich",
       "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8364836?gh_jid=8364836",
-      "source": "greenhouse"
+      "url": "https://www.arbeitnow.com/jobs/companies/dataguard/lead-business-development-representative-munich-456922",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-intern-supply-chain-all-genders-munchen-943",
+      "title": "Intern Supply Chain (all genders)",
+      "company": "Wemolo",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/intern-supply-chain-all-genders-munchen-943",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-associate-operations-manager-fur-das-altersvorsorgedepot-berlin-187374",
+      "title": "Associate Operations Manager für das Altersvorsorgedepot (f/m/d)",
+      "company": "Upvest",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/upvest/associate-operations-manager-fur-das-altersvorsorgedepot-berlin-187374",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founders-associate-finance-ai-x-greentech-berlin-84796",
+      "title": "Founders Associate Finance - (AI x Greentech) (m/f/d)",
+      "company": "Reonic",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/reonic/founders-associate-finance-ai-x-greentech-berlin-84796",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-project-manager-print-digital-bewegtbild-berlin-167568",
+      "title": "Senior Project Manager (m/w/d) / Print, Digital & Bewegtbild",
+      "company": "Wppproduction",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppproduction/senior-project-manager-print-digital-bewegtbild-berlin-167568",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-finance-expert-munich-497622",
+      "title": "Product Finance Expert",
+      "company": "Moss",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/moss/product-finance-expert-munich-497622",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-unternehmensberaterin-senior-consultant-dusseldorf-141766",
+      "title": "UnternehmensberaterIn - Senior Consultant - Dusseldorf",
+      "company": "Efficioconsulting",
+      "city": "Dusseldorf",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/efficioconsulting/unternehmensberaterin-senior-consultant-dusseldorf-141766",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-referent-finance-und-risikomanagement-teilzeit-munich-99055",
+      "title": "Referent Finance und Risikomanagement (m/w/d) Teilzeit",
+      "company": "MY Humancapital GmbH",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/referent-finance-und-risikomanagement-teilzeit-munich-99055",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-sachbearbeiter-kredit-vertragsmanagement-munich-214053",
+      "title": "Sachbearbeiter Kredit & Vertragsmanagement (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sachbearbeiter-kredit-vertragsmanagement-munich-214053",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-sap-hcm-inhouse-consultant-munich-52139",
+      "title": "SAP HCM Inhouse Consultant (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/sap-hcm-inhouse-consultant-munich-52139",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-controller-munich-357163",
+      "title": "(Junior) Controller (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/junior-controller-munich-357163",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-controller-munich-449544",
+      "title": "Controller (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/controller-munich-449544",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-private-banking-berater-ulm-400013",
+      "title": "Private Banking Berater (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "city": "Ulm",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/private-banking-berater-ulm-400013",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-project-manager-industrialization-all-genders-munich-251268",
+      "title": "(Senior) Project Manager – Industrialization (all genders)",
+      "company": "væridion",
+      "city": "Munich HQ",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-project-manager-industrialization-all-genders-munich-251268",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-accounting-manager-all-genders-munich-182120",
+      "title": "Accounting Manager (all genders)",
+      "company": "væridion",
+      "city": "Munich HQ",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/accounting-manager-all-genders-munich-182120",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-finance-manager-all-genders-munich-17071",
+      "title": "Finance Manager (all genders)",
+      "company": "væridion",
+      "city": "Munich HQ",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/finance-manager-all-genders-munich-17071",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-business-financial-analyst-all-genders-munchen-308770",
+      "title": "(Senior) Business & Financial Analyst (all genders)",
+      "company": "Foodji GmbH",
+      "city": "München, Bayern, Deutschland",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-business-financial-analyst-all-genders-munchen-308770",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-kundenberater-private-banking-munich-70093",
+      "title": "Kundenberater Private Banking (m/w/d)",
+      "company": "MY Humancapital GmbH",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/kundenberater-private-banking-munich-70093",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-vice-president-finance-all-genders-berlin-330386",
+      "title": "Vice President Finance (all genders)",
+      "company": "getolo GmbH",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/getolo-gmbh/vice-president-finance-all-genders-berlin-330386",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-business-development-growth-praktikum-oder-vollzeit-munich-457048",
+      "title": "Business Development & Growth Intern",
+      "company": "Valova",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/valova/business-development-growth-praktikum-oder-vollzeit-munich-457048",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-operations-manager-mannheim-382142",
+      "title": "Senior Operations Manager (m/w/d)",
+      "company": "PAUL Tech AG",
+      "city": "Mannheim",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/paul-tech-ag/senior-operations-manager-mannheim-382142",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
+      "title": "Product Manager/ Business Analyst As Freelancer (All Genders)",
+      "company": "Vexcash AG",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/product-manager-business-analyst-as-freelancer-all-genders-berlin-283084",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-sap-bi-business-intelligence-heidelberg-69642",
+      "title": "(Senior) Consultant SAP BI/ Business Intelligence (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "city": "Heidelberg, Baden-Württemberg, Deutschland",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-consultant-sap-bi-business-intelligence-heidelberg-69642",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-trainee-sap-master-data-management-mdm-consultant-heidelberg-259085",
+      "title": "Trainee SAP Master Data Management (MDM) Consultant (m/w/d)",
+      "company": "cbs Corporate Business Solutions GmbH",
+      "city": "Heidelberg, Baden-Württemberg, Deutschland",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/trainee-sap-master-data-management-mdm-consultant-heidelberg-259085",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-buchhalter-waiblingen-496069",
+      "title": "Senior Buchhalter (m/w/x)",
+      "company": "Rotzinger Group",
+      "city": "Waiblingen, Baden-Württemberg, Deutschland",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/rotzinger-group/senior-buchhalter-waiblingen-496069",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-project-manager-print-digital-bewegtbild-hamburg-134227",
+      "title": "Senior Project Manager (m/w/d) / Print, Digital & Bewegtbild",
+      "company": "WPP Production",
+      "city": "Hamburg, Hamburg, Germany",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/wpp-production/senior-project-manager-print-digital-bewegtbild-hamburg-134227",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-controlling-berlin-143142",
+      "title": "Werkstudent:in Controlling (m/w/d)",
+      "company": "momox",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/momox/werkstudentin-controlling-berlin-143142",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-sap-fi-finance-consultant-hamburg-213166",
+      "title": "SAP FI / Finance Consultant",
+      "company": "cink AG",
+      "city": "Hamburg",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/cink-ag/sap-fi-finance-consultant-hamburg-213166",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-sap-businessobjects-berlin-79264",
+      "title": "(Senior) Consultant (m/w/d) SAP BusinessObjects",
+      "company": "Windhoff Group",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/senior-consultant-sap-businessobjects-berlin-79264",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-consulting-einkauf-dusseldorf-352077",
+      "title": "Werkstudent (m/w/d) - Consulting Einkauf",
+      "company": "Bredehorst Clinical Medical Management",
+      "city": "Düsseldorf",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/bredehorst-clinical-medical-management/werkstudent-consulting-einkauf-dusseldorf-352077",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-business-development-manager-frankfurt-am-main-385196",
+      "title": "Senior Business Development Manager (m/w/d)",
+      "company": "logistik-consultants.de | Baykolog GmbH",
+      "city": "Frankfurt am Main",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/logistik-consultantsde-baykolog-gmbh/senior-business-development-manager-frankfurt-am-main-385196",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-334034",
+      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
+      "company": "Kevin Kehr",
+      "city": "Hamburg",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-334034",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-operations-managerin-marktpartnerkommunikation-berlin-487790",
+      "title": "Operations Manager:in - Marktpartnerkommunikation (w/m/d)",
+      "company": "Enpal",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/operations-managerin-marktpartnerkommunikation-berlin-487790",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-accounting-reporting-manager-berlin-289674",
+      "title": "Accounting & Reporting Manager (f/m/x)",
+      "company": "Enpal",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/accounting-reporting-manager-berlin-289674",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-1218-senior-project-manager-germany-225493",
+      "title": "1218 | Senior Project Manager",
+      "company": "Intetics 2",
+      "city": "Germany",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1218-senior-project-manager-germany-225493",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-10221-senior-business-analyst-germany-436934",
+      "title": "1022.1 | Senior Business Analyst",
+      "company": "Intetics 2",
+      "city": "Germany",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-10221-senior-business-analyst-germany-436934",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-solution-consultant-munich-468622",
+      "title": "Solution Consultant",
+      "company": "True Talent Solutions Partners",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/solution-consultant-munich-468622",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-media-consultant-wiesbaden-391323",
+      "title": "Senior Media Consultant",
+      "company": "True Talent Solutions Partners",
+      "city": "Wiesbaden",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-media-consultant-wiesbaden-391323",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-digital-marketing-consultant-wiesbaden-353999",
+      "title": "Senior Digital Marketing Consultant",
+      "company": "True Talent Solutions Partners",
+      "city": "Wiesbaden",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-digital-marketing-consultant-wiesbaden-353999",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-client-delivery-lead-billing-or-accounting-experience-munich-477822",
+      "title": "Client Delivery Lead - Billing or Accounting Experience (f/m/d)",
+      "company": "Kraken",
+      "city": "Munich, Germany",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/kraken/client-delivery-lead-billing-or-accounting-experience-munich-477822",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-accountant-deutschland-241200",
+      "title": "Senior Accountant (m/w/d)",
+      "company": "Doonails",
+      "city": "Deutschland",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/doonails/senior-accountant-deutschland-241200",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-manager-global-direct-procurement-all-genders-berlin-berlin-233374",
+      "title": "Senior Manager, Global Direct Procurement (all genders)",
+      "company": "hellofresh",
+      "city": "Berlin, Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-manager-global-direct-procurement-all-genders-berlin-berlin-233374",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-director-head-of-tax-all-genders-berlin-berlin-484410",
+      "title": "Senior Director, Head of Tax (all genders)",
+      "company": "hellofresh",
+      "city": "Berlin, Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-director-head-of-tax-all-genders-berlin-berlin-484410",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-473654",
+      "title": "Senior Video Marketing Manager – Strategy & Innovation (Mensch)",
+      "company": "wppmedia",
+      "city": "Düsseldorf",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-473654",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-media-consultant-mensch-munich-302246",
+      "title": "Senior Media Consultant (Mensch)",
+      "company": "wppmedia",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-media-consultant-mensch-munich-302246",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-associate-director-partner-investment-video-media-investment-mensch-dusseldorf-51730",
+      "title": "Associate Director Partner Investment Video - Media Investment (Mensch)",
+      "company": "wppmedia",
+      "city": "Dusseldorf",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/associate-director-partner-investment-video-media-investment-mensch-dusseldorf-51730",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-wirtschaftsprufer-in-founding-partnerin-berlin-205427",
+      "title": "Wirtschaftsprüfer/in (Founding Partner:in)",
+      "company": "Bsteuern",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/wirtschaftsprufer-in-founding-partnerin-berlin-205427",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-steuerfachwirtin-bilanzbuchhalterin-fokus-mandantenkontakt-beratung-sales-103133",
+      "title": "Steuerfachwirt:in / Bilanzbuchhalter:in – Fokus Mandantenkontakt, Beratung & Sales",
+      "company": "Bsteuern",
+      "city": "Remote (Germany)",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/remote-steuerfachwirtin-bilanzbuchhalterin-fokus-mandantenkontakt-beratung-sales-103133",
+      "source": "arbeitnow"
     }
   ]
 }
