@@ -25,9 +25,9 @@ try:
         print("Page title found:", "<title" in html.lower())
         print("Job search text found:", "job" in html.lower())
 
-print("\n--- PAGE PREVIEW ---")
-print(html[:1500])
-print("--- END PREVIEW ---")
+        print("\n--- PAGE PREVIEW ---")
+        print(html[:1500])
+        print("--- END PREVIEW ---")
 
 except urllib.error.HTTPError as error:
     print("HTTP error:", error.code)
