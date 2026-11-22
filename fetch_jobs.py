@@ -13,7 +13,7 @@ GREENHOUSE_COMPANIES = [
 ]
 
 # Arbeitnow'dan ilk 5 sayfayı kontrol edeceğiz
-ARBEITNOW_PAGES = 5
+ARBEITNOW_PAGES = 15
 
 GERMAN_LOCATIONS = [
     "germany", "deutschland", "berlin",
