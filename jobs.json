@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T16:58:42.348107+00:00",
-  "total": 136,
+  "updated_at": "2026-11-24T16:47:47.132331+00:00",
+  "total": 133,
   "jobs": [
     {
       "id": "greenhouse-sumup-8745560002",
@@ -48,6 +48,15 @@
       "source": "greenhouse"
     },
     {
+      "id": "greenhouse-n26-8200510",
+      "title": "Senior Legal Counsel Banking Law",
+      "company": "n26",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510",
+      "source": "greenhouse"
+    },
+    {
       "id": "greenhouse-n26-8184791",
       "title": "Senior Legal Counsel Banking Law",
       "company": "n26",
@@ -57,13 +66,220 @@
       "source": "greenhouse"
     },
     {
-      "id": "greenhouse-n26-8200510",
-      "title": "Senior Legal Counsel Banking Law",
-      "company": "n26",
+      "id": "arbeitnow-business-development-lead-enterprise-dach-berlin-16167",
+      "title": "Business Development Lead (Enterprise DACH)",
+      "company": "Telli",
       "city": "Berlin",
       "language": "unknown",
-      "url": "https://n26.com/en-eu/careers/positions/8200510?gh_jid=8200510",
-      "source": "greenhouse"
+      "url": "https://www.arbeitnow.com/jobs/companies/telli/business-development-lead-enterprise-dach-berlin-16167",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-managerin-strategic-projects-ai-business-development-all-genders-berlin-37202",
+      "title": "Manager:in Strategic Projects – AI & Business Development (all genders)",
+      "company": "tink GmbH",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/tink-gmbh/managerin-strategic-projects-ai-business-development-all-genders-berlin-37202",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-red-team-consultant-berlin-439898",
+      "title": "Senior Red Team Consultant (m/f/d)",
+      "company": "SR Security Research Labs - Personio",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/sr-security-research-labs-personio/senior-red-team-consultant-berlin-439898",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-data-ai-consultant-automotive-munchen-416189",
+      "title": "Senior Data & AI Consultant (m/w/d) – Automotive",
+      "company": "Alexander Thamm Gmbh",
+      "city": "München",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/senior-data-ai-consultant-automotive-munchen-416189",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-business-development-representative-data-ai-consulting-hybrid-munchen-471840",
+      "title": "Business Development Representative - Data & AI Consulting (m/w/d)",
+      "company": "Alexander Thamm Gmbh",
+      "city": "Hybrid (München)",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/alexander-thamm-gmbh/business-development-representative-data-ai-consulting-hybrid-munchen-471840",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-servicenow-employee-workflows-munchen-40245",
+      "title": "Senior Consultant ServiceNow Employee Workflows (m/w/d)",
+      "company": "Exccon",
+      "city": "München",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/exccon/senior-consultant-servicenow-employee-workflows-munchen-40245",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
+      "title": "Junior Inhouse Consultant Data Engineering (all genders)",
+      "company": "Dymatrix",
+      "city": "Stuttgart",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/dymatrix/junior-inhouse-consultant-data-engineering-all-genders-stuttgart-113292",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-im-einkauf-berlin-433596",
+      "title": "Werkstudent (m/w/d) im Einkauf",
+      "company": "DNS:NET Internet Service GmbH",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/dnsnet-internet-service-gmbh/werkstudent-im-einkauf-berlin-433596",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-geo-seo-consultant-munich-germany-276314",
+      "title": "Senior GEO/ SEO Consultant",
+      "company": "Digital Loop",
+      "city": "Munich/ Germany",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/digital-loop/senior-geo-seo-consultant-munich-germany-276314",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-projektmanager-operations-kundenbetreuung-customer-success-dresden-490225",
+      "title": "Projektmanager Operations & Kundenbetreuung / Customer Success (m/w/d)",
+      "company": "Spectos GmbH",
+      "city": "Dresden",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/spectos-gmbh/projektmanager-operations-kundenbetreuung-customer-success-dresden-490225",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-strategic-market-intelligence-cologne-65380",
+      "title": "Senior Consultant – Strategic Market Intelligence (m/w/d)",
+      "company": "real PACE GmbH",
+      "city": "Cologne",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/real-pace-gmbh/senior-consultant-strategic-market-intelligence-cologne-65380",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-dusseldorf-376263",
+      "title": "Senior Consultant (m/w/d)",
+      "company": "Pink Sunrise Consulting",
+      "city": "Düsseldorf",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/pink-sunrise-consulting/senior-consultant-dusseldorf-376263",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-consultant-dusseldorf-231081",
+      "title": "Consultant (m/w/d)",
+      "company": "Pink Sunrise Consulting",
+      "city": "Düsseldorf",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/pink-sunrise-consulting/consultant-dusseldorf-231081",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-people-specialist-hr-operations-strategy-berlin-476610",
+      "title": "Senior People Specialist (HR Operations & Strategy) (m/w/d)",
+      "company": "SPREAD GmbH",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/spread-gmbh/senior-people-specialist-hr-operations-strategy-berlin-476610",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-business-development-manager-europe-munich-367492",
+      "title": "Senior Business Development Manager Europe (m/f/d)",
+      "company": "Odys Aviation",
+      "city": "Munich, Germany",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/odys-aviation/senior-business-development-manager-europe-munich-367492",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-technical-operations-manager-munich-483380",
+      "title": "Technical Operations Manager",
+      "company": "Beo Energy",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/beo-energy/technical-operations-manager-munich-483380",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-business-development-representative-bdr-munich-28185",
+      "title": "Business Development Representative (BDR)",
+      "company": "Beo Energy",
+      "city": "Munich",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/beo-energy/business-development-representative-bdr-munich-28185",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-it-security-consultant-penetration-tester-berlin-266769",
+      "title": "Senior IT-Security Consultant / Penetration Tester (m/w/d)",
+      "company": "Yekta IT GmbH",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/yekta-it-gmbh/senior-it-security-consultant-penetration-tester-berlin-266769",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-digital-measurement-privacy-tech-hamburg-148543",
+      "title": "Senior Consultant Digital Measurement & Privacy Tech (m/w/d)",
+      "company": "A-LEVEL",
+      "city": "Hamburg",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/a-level/senior-consultant-digital-measurement-privacy-tech-hamburg-148543",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-consultant-werkstudentin-berlin-167831",
+      "title": "Junior Consultant (Werkstudent:in, m/w/d)",
+      "company": "Better Earth Advisory GmbH",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/better-earth-advisory-gmbh/junior-consultant-werkstudentin-berlin-167831",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-senior-consultant-supply-chain-operations-dusseldorf-132044",
+      "title": "Senior Consultant Supply Chain & Operations (m/w/d)",
+      "company": "Argon Co Deutschland",
+      "city": "Düsseldorf",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/argon-co-deutschland/senior-consultant-supply-chain-operations-dusseldorf-132044",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-finance-controller-lead-all-genders-berlin-376640",
+      "title": "Finance Controller Lead (all genders)",
+      "company": "JustPlay GmbH",
+      "city": "Berlin (Hybrid)",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/justplay-gmbh/finance-controller-lead-all-genders-berlin-376640",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-accountant-inventory-fixed-assets-accounting-berlin-427675",
+      "title": "Accountant – Inventory & Fixed Assets Accounting (f/m/x)",
+      "company": "Enpal",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/enpal/accountant-inventory-fixed-assets-accounting-berlin-427675",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-financial-services-specialist-berlin-450361",
+      "title": "Financial Services Specialist (m/w/d)",
+      "company": "1KOMMA5˚",
+      "city": "Berlin",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/financial-services-specialist-berlin-450361",
+      "source": "arbeitnow"
     },
     {
       "id": "arbeitnow-head-of-business-development-berlin-104379",
@@ -255,21 +471,21 @@
       "source": "arbeitnow"
     },
     {
-      "id": "arbeitnow-finance-lead-berlin-67427",
-      "title": "Finance Lead (m/w/d)",
-      "company": "FENKA Robotics GmbH",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/fenka-robotics-gmbh/finance-lead-berlin-67427",
-      "source": "arbeitnow"
-    },
-    {
       "id": "arbeitnow-lead-project-manager-dual-use-in-orbit-services-munich-34582",
       "title": "Lead Project Manager Dual Use In-Orbit Services",
       "company": "The Exploration Company",
       "city": "Munich, Germany",
       "language": "unknown",
       "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-project-manager-dual-use-in-orbit-services-munich-34582",
+      "source": "arbeitnow"
+    },
+    {
+      "id": "arbeitnow-lead-supply-chain-munich-278628",
+      "title": "Lead Supply Chain",
+      "company": "The Exploration Company",
+      "city": "Munich, Germany",
+      "language": "unknown",
+      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-supply-chain-munich-278628",
       "source": "arbeitnow"
     },
     {
@@ -840,15 +1056,6 @@
       "source": "arbeitnow"
     },
     {
-      "id": "arbeitnow-senior-buchhalter-waiblingen-496069",
-      "title": "Senior Buchhalter (m/w/x)",
-      "company": "Rotzinger Group",
-      "city": "Waiblingen, Baden-Württemberg, Deutschland",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/rotzinger-group/senior-buchhalter-waiblingen-496069",
-      "source": "arbeitnow"
-    },
-    {
       "id": "arbeitnow-senior-project-manager-print-digital-bewegtbild-hamburg-134227",
       "title": "Senior Project Manager (m/w/d) / Print, Digital & Bewegtbild",
       "company": "WPP Production",
@@ -912,15 +1119,6 @@
       "source": "arbeitnow"
     },
     {
-      "id": "arbeitnow-werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-334034",
-      "title": "Werkstudent (m/w/d) – Finance & Beratung (unternehmerisch, leistungsbasiert)",
-      "company": "Kevin Kehr",
-      "city": "Hamburg",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/kevin-kehr/werkstudent-finance-beratung-unternehmerisch-leistungsbasiert-hamburg-334034",
-      "source": "arbeitnow"
-    },
-    {
       "id": "arbeitnow-operations-managerin-marktpartnerkommunikation-berlin-487790",
       "title": "Operations Manager:in - Marktpartnerkommunikation (w/m/d)",
       "company": "Enpal",
@@ -966,24 +1164,6 @@
       "source": "arbeitnow"
     },
     {
-      "id": "arbeitnow-senior-media-consultant-wiesbaden-391323",
-      "title": "Senior Media Consultant",
-      "company": "True Talent Solutions Partners",
-      "city": "Wiesbaden",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-media-consultant-wiesbaden-391323",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-digital-marketing-consultant-wiesbaden-353999",
-      "title": "Senior Digital Marketing Consultant",
-      "company": "True Talent Solutions Partners",
-      "city": "Wiesbaden",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/senior-digital-marketing-consultant-wiesbaden-353999",
-      "source": "arbeitnow"
-    },
-    {
       "id": "arbeitnow-client-delivery-lead-billing-or-accounting-experience-munich-477822",
       "title": "Client Delivery Lead - Billing or Accounting Experience (f/m/d)",
       "company": "Kraken",
@@ -1017,213 +1197,6 @@
       "city": "Berlin, Berlin",
       "language": "unknown",
       "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-director-head-of-tax-all-genders-berlin-berlin-484410",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-473654",
-      "title": "Senior Video Marketing Manager – Strategy & Innovation (Mensch)",
-      "company": "wppmedia",
-      "city": "Düsseldorf",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-473654",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-media-consultant-mensch-munich-302246",
-      "title": "Senior Media Consultant (Mensch)",
-      "company": "wppmedia",
-      "city": "Munich",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-media-consultant-mensch-munich-302246",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-associate-director-partner-investment-video-media-investment-mensch-dusseldorf-51730",
-      "title": "Associate Director Partner Investment Video - Media Investment (Mensch)",
-      "company": "wppmedia",
-      "city": "Dusseldorf",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/associate-director-partner-investment-video-media-investment-mensch-dusseldorf-51730",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-wirtschaftsprufer-in-founding-partnerin-berlin-205427",
-      "title": "Wirtschaftsprüfer/in (Founding Partner:in)",
-      "company": "Bsteuern",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/wirtschaftsprufer-in-founding-partnerin-berlin-205427",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-steuerfachwirtin-bilanzbuchhalterin-fokus-mandantenkontakt-beratung-sales-103133",
-      "title": "Steuerfachwirt:in / Bilanzbuchhalter:in – Fokus Mandantenkontakt, Beratung & Sales",
-      "company": "Bsteuern",
-      "city": "Remote (Germany)",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsteuern/remote-steuerfachwirtin-bilanzbuchhalterin-fokus-mandantenkontakt-beratung-sales-103133",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-finance-team-lead-munich-326881",
-      "title": "Finance Team Lead (d/f/m)",
-      "company": "Luminovo GmbH",
-      "city": "🇩🇪 Munich (hybrid)",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/luminovo-gmbh/finance-team-lead-munich-326881",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-microsoft-data-ai-security-consultant-koln-nordrhein-westfalen-292740",
-      "title": "(Senior) Microsoft Data & AI Security Consultant (m/w/d)",
-      "company": "Skaylink",
-      "city": "Köln, Nordrhein-Westfalen",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/skaylink/senior-microsoft-data-ai-security-consultant-koln-nordrhein-westfalen-292740",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-strategy-manager-all-genders-munchen-167853",
-      "title": "Strategy Manager (all genders)",
-      "company": "Wemolo",
-      "city": "Munich",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/wemolo/strategy-manager-all-genders-munchen-167853",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-controller-munich-11202",
-      "title": "Senior Controller (m/f/x)",
-      "company": "FINN",
-      "city": "Munich",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/finn/senior-controller-munich-11202",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-bilanzbuchhalter-hgb-sap-s-4hana-munich-319003",
-      "title": "Senior Bilanzbuchhalter (m/w/d) – HGB / SAP S/4HANA",
-      "company": "FINN",
-      "city": "Munich",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/finn/senior-bilanzbuchhalter-hgb-sap-s-4hana-munich-319003",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-finance-data-systems-analyst-fpa-berlin-164565",
-      "title": "Finance Data & Systems Analyst (FP&A)",
-      "company": "Lovehoney Group",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/finance-data-systems-analyst-fpa-berlin-164565",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-associate-technology-consultant-galaxy-graduate-program-munich-469744",
-      "title": "Associate Technology Consultant - Galaxy Graduate Program",
-      "company": "celonis",
-      "city": "Munich",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/associate-technology-consultant-galaxy-graduate-program-munich-469744",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-associate-ai-and-data-consultant-galaxy-graduate-program-munich-90996",
-      "title": "Associate AI and Data Consultant - Galaxy Graduate Program",
-      "company": "celonis",
-      "city": "Munich",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/associate-ai-and-data-consultant-galaxy-graduate-program-munich-90996",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-data-protection-and-compliance-consultant-berlin-94678",
-      "title": "Data Protection and Compliance Consultant (m/f/d)",
-      "company": "commercetools",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/commercetools/data-protection-and-compliance-consultant-berlin-94678",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-data-protection-and-compliance-consultant-munchen-bayern-6440",
-      "title": "Data Protection and Compliance Consultant (m/f/d)",
-      "company": "commercetools",
-      "city": "München, Bayern",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/commercetools/data-protection-and-compliance-consultant-munchen-bayern-6440",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-projektleiter-projektmanager-hamburg-9549",
-      "title": "Projektleiter/Projektmanager (m/w/d)",
-      "company": "Delphi HR-Consulting",
-      "city": "Hamburg",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/delphi-hr-consulting/projektleiter-projektmanager-hamburg-9549",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-financial-controller-gn-berlin-44749",
-      "title": "Senior Financial Controller (gn)",
-      "company": "selected heads GmbH",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/selected-heads-gmbh/senior-financial-controller-gn-berlin-44749",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-marketing-einkauf-werkstudent-dusseldorf-north-rhine-westphalia-9516",
-      "title": "Marketing Einkauf Werkstudent (m/w/d)",
-      "company": "Teampicnic",
-      "city": "Düsseldorf, North Rhine-Westphalia",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/marketing-einkauf-werkstudent-dusseldorf-north-rhine-westphalia-9516",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-einkauf-werkstudent-dusseldorf-north-rhine-westphalia-454639",
-      "title": "Einkauf Werkstudent (m/w/d)",
-      "company": "Teampicnic",
-      "city": "Düsseldorf, North Rhine-Westphalia",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/einkauf-werkstudent-dusseldorf-north-rhine-westphalia-454639",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-consultant-digitale-verwaltung-finance-processes-ulm-268456",
-      "title": "Consultant Digitale Verwaltung – Finance & Processes (m/w/d)",
-      "company": "MINT Solutions",
-      "city": "Ulm",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/mint-solutions/consultant-digitale-verwaltung-finance-processes-ulm-268456",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-projektmanager-berater-im-klinikumfeld-hamburg-388793",
-      "title": "Projektmanager / Berater im Klinikumfeld (m/w/d)",
-      "company": "Lohfert & Lohfert AG",
-      "city": "Hamburg",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/lohfert-lohfert-ag/projektmanager-berater-im-klinikumfeld-hamburg-388793",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-senior-technology-audit-manager-berlin-298463",
-      "title": "Senior Technology Audit Manager",
-      "company": "Getyourguide",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/getyourguide/senior-technology-audit-manager-berlin-298463",
-      "source": "arbeitnow"
-    },
-    {
-      "id": "arbeitnow-finance-operations-manager-berlin-175833",
-      "title": "Finance Operations Manager (m/w/d)",
-      "company": "Start To Finish Consulting GmbH",
-      "city": "Berlin",
-      "language": "unknown",
-      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/finance-operations-manager-berlin-175833",
       "source": "arbeitnow"
     }
   ]
